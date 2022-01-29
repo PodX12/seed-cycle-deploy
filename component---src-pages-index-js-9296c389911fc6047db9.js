@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkseed_cycle=self.webpackChunkseed_cycle||[]).push([[678],{325:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var l=t(294);function u(){return l.createElement(l.Fragment,null,l.createElement("h1",null,"Layout Here"))}var c=function(){return l.createElement("main",null,l.createElement("title",null,"Seed Cycle"),l.createElement(u,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9296c389911fc6047db9.js.map
