@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkseed_cycle=self.webpackChunkseed_cycle||[]).push([[883],{429:function(e,n,l){l.r(n);var t=l(7294);l(1597);n.default=function(){return t.createElement("main",null,t.createElement("title",null,"Seed Cycle - Not found"),t.createElement("h1",null,"Page not found"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-efa79190e4b9ba3c1ff9.js.map
